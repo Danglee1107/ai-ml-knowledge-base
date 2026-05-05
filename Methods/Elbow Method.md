@@ -106,7 +106,7 @@ plt.title('Dataset Visualization')
 plt.show()
 ```
 
-![[elbowmethod_1.png|]]
+![[elbowmethod_1.png|729]]
 
 ### Step 3: Compute Distortion & Inertia
 
@@ -136,7 +136,7 @@ plt.title('Elbow Method (Distortion)')
 plt.show()
 ```
 
-![[elbowmethod_2.png]]
+![[elbowmethod_2.png|743]]
 
 #### Inertia
 
@@ -148,7 +148,7 @@ plt.title('Elbow Method (Inertia)')
 plt.show()
 ```
 
-![[elbowmethod_3.png]]
+![[elbowmethod_3.png|743]]
 
 ### Step 5: Visualize Clusters
 
