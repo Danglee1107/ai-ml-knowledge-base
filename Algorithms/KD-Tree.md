@@ -284,7 +284,7 @@ $$
 
 ---
 
-## 9. Intuition 🔥
+## 9. Intuition 
 
 ---
 
@@ -346,7 +346,7 @@ $$
 
 ---
 
-## 12. Variants / Improvements 🚀
+## 12. Variants / Improvements 
 
 ---
 
