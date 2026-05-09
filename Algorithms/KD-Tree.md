@@ -247,7 +247,7 @@ $$
   d \uparrow
   $$
 
-- Due to **curse of dimensionality**
+- Due to [[Curse of Dimensionality]]
 
 ---
 
@@ -434,3 +434,11 @@ However:
 - It is not universally better than brute force
 
 Understanding when KD-tree fails is as important as knowing how it works.
+
+---
+## 15. Related concepts
+- [[Ball-Tree]]
+-  [[Curse of Dimensionality]]
+
+### Animation 
+- https://youtu.be/FnJj28u7rF0?si=V1w3etT5tZNK2B4p
