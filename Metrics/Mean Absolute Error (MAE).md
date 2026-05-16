@@ -784,4 +784,4 @@ It is less suitable when:
 ---
 ## Links
 - [[Means Squared Error (MSE)]]
-- [[Root Means Squared Error (RMSE)]]
+- [[Root Mean Squared Error (RMSE)]]
