@@ -314,4 +314,4 @@ Linear Regression is the foundation of many machine learning models. Understandi
 ## Links
 - [[Pseudo-Inverse]]
 -  [[Batch Gradient Descent vs Stochastic Gradient Descent]]
--  [[Means Squared Error (MSE)]]
+-  [[Mean Squared Error (MSE)]]

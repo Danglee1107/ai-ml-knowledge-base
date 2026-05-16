@@ -776,5 +776,5 @@ It is less suitable when:
 --- 
 ## Links
 - [[Mean Absolute Error (MAE)]]
-- [[Means Squared Error (MSE)]]
+- [[Mean Squared Error (MSE)]]
 - 

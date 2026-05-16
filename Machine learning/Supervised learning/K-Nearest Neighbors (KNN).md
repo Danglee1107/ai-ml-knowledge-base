@@ -424,6 +424,6 @@ Understanding these trade-offs is essential for effective use.
 	- [[KD-Tree]]
 	- [[Ball-Tree]]
 - Evaluation metric:
-	- [[Means Squared Error (MSE)]]
+	- [[Mean Squared Error (MSE)]]
 - Others:
 	- [[Curse of Dimensionality]]
