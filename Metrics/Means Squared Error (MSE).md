@@ -347,3 +347,8 @@ It shapes optimization by:
 - Biasing toward mean predictions
 
 Understanding MSE deeply is essential for mastering regression and optimization behavior in machine learning.
+
+---
+## Links
+- [[Root Mean Squared Error (RMSE)]]
+- 
